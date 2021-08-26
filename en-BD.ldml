@@ -210,10 +210,10 @@
         <pm>PM</pm>
         <eras>
           <eraNames>
-            <era type="1">A.D.</era>
+            <era type="1">C.E.</era>
           </eraNames>
           <eraAbbr>
-            <era type="1">AD</era>
+            <era type="1">CE</era>
           </eraAbbr>
         </eras>
         <dateFormats>
